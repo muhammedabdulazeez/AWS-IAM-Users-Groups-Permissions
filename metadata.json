@@ -1,0 +1,6 @@
+{
+  "name": "AWS IAM Users, Groups & Permissions Lab",
+  "description": "Hands-on AWS IAM simulation documentation and screenshots covering user groups, least-privilege policies, IAM users, and permission verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
